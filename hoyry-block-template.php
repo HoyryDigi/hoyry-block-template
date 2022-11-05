@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       Höyry: Block template
- * Description:       This is a collection of awesome media blocks.
+ * Description:       This is a template for creating blocks.
  * Requires at least: 6.0
  * Requires PHP:      7.4
  * Version:           0.1.0
