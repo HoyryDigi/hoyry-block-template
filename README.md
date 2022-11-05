@@ -1,2 +1,2 @@
-# hoyrymoottori-block-template
+# hoyry-block-template
 This is a template for creating WordPress blocks.

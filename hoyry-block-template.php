@@ -10,7 +10,7 @@
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       hoyry-block-template
  *
- * @package           hoyrymoottori-blocks
+ * @package           hoyry-blocks
  */
 
 /**
